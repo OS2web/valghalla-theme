@@ -1,3 +1,7 @@
+Deprecated
+==========
+See <https://github.com/OS2Valghalla/valghalla>
+
 valghalla-theme
 ===============
 Theme for Valghalla.
